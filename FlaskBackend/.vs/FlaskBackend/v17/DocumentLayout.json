@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\max\\source\\repos\\FlaskBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFF58E-FE3C-4DE6-ABC6-219DE7107530}|FlaskBackend\\FlaskBackend.pyproj|C:\\Users\\max\\source\\repos\\FlaskBackend\\FlaskBackend\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06FFF58E-FE3C-4DE6-ABC6-219DE7107530}|FlaskBackend\\FlaskBackend.pyproj|solutionrelative:FlaskBackend\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFF58E-FE3C-4DE6-ABC6-219DE7107530}|FlaskBackend\\FlaskBackend.pyproj|C:\\Users\\max\\source\\repos\\FlaskBackend\\FlaskBackend\\run.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06FFF58E-FE3C-4DE6-ABC6-219DE7107530}|FlaskBackend\\FlaskBackend.pyproj|solutionrelative:FlaskBackend\\run.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "run.py",
+              "DocumentMoniker": "C:\\Users\\max\\source\\repos\\FlaskBackend\\FlaskBackend\\run.py",
+              "RelativeDocumentMoniker": "FlaskBackend\\run.py",
+              "ToolTip": "C:\\Users\\max\\source\\repos\\FlaskBackend\\FlaskBackend\\run.py",
+              "RelativeToolTip": "FlaskBackend\\run.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-11T16:04:14.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\max\\source\\repos\\FlaskBackend\\FlaskBackend\\app.py",
+              "RelativeDocumentMoniker": "FlaskBackend\\app.py",
+              "ToolTip": "C:\\Users\\max\\source\\repos\\FlaskBackend\\FlaskBackend\\app.py",
+              "RelativeToolTip": "FlaskBackend\\app.py",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-11T16:01:17.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

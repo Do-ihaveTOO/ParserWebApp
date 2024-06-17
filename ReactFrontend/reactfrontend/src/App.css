@@ -1,0 +1,27 @@
+.App {
+    text-align: center;
+    padding: 20px;
+}
+
+.button-group {
+    margin: 20px 0;
+}
+
+    .button-group button {
+        margin: 0 10px;
+    }
+
+.output {
+    text-align: left;
+    margin: 20px auto;
+    width: 80%;
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+    .output pre {
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }

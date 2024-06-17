@@ -1,0 +1,16 @@
+DESP script started
+DESP: Moved N:\DESPATCHING\System despatch notes\Copy\s69913.pdf to N:\DESPATCHING\System despatch notes\Despatch\065091\065091.pdf
+DESP: Moved N:\DESPATCHING\System despatch notes\Copy\s69914.pdf to N:\DESPATCHING\System despatch notes\Despatch\065092\065092.pdf
+DESP script stopped
+DESP script started
+DESP: Moved N:\DESPATCHING\System despatch notes\Copy\s69916.pdf to N:\DESPATCHING\System despatch notes\Despatch\065088\065088.pdf
+DESP script stopped
+OA script started
+OA script stopped
+OA script started
+OA script stopped
+PO script started
+PO: Moved N:\PURCHASE ORDERS\Copy\s69915.pdf to N:\PURCHASE ORDERS\PO's\004440\004440.pdf
+PO script stopped
+PO script started
+PO script stopped
